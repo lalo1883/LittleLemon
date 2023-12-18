@@ -1,6 +1,6 @@
 # Little Lemon
 
-Web application built with Django for restaurant "reservation."
+Web application built with Django for restaurant reservations
 
 ## Requirements
 
