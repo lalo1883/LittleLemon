@@ -26,14 +26,6 @@ On Unix or MacOS:
 source venv/bin/activate
 ```
 
-## Installing Dependencies
-
-Install project dependencies using the following command:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Database Configuration
 
 Perform initial migrations to set up the database:
